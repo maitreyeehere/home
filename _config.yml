@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Maitreyee's CV"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://maitreyeehere.github.io/cv/
+name                     : &name "Maitreyee Sar"
+description              : &description "CS undergraduate, enthusiastic about research"
+url                      : https://maitreyeehere.github.io/
 repository               : https://maitreyeehere.github.io/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,15 +24,15 @@ author:
   name             : "Maitreyee Sar"
   pronouns         : # she/her"  
   bio              : "Third year Computer Science Engineering student, enthusiastic about research in machine learning, computer vision and natural language processing."
-  employer         : "Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, India"
+  employer         : "Kalinga Institute of Industrial Technology (KIIT)"
   location         : "Bhubaneswar, India"
   uri              : https://maitreyeehere.github.io/cv/
   email            : maitreyeesar@gmail.com
 
   # Academic websites
    orcid            : "https://orcid.org/0009-0004-4665-8999"
+   linkedin         : "https://www.linkedin.com/in/maitreyee-s-b2206b265/"
   
-
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
