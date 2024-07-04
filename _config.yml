@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Maitreyee Sar"
+title                    : "Hi, Maitreyee here :)"
 title_separator          : "-"
 name                     : &name "Maitreyee Sar"
 description              : &description "CS undergraduate, enthusiastic about research"
-url                      : "https://maitreyeehere.github.io"
-repository               : "https://github.com/maitreyeehere/maitreyee.github.io"
+url                      : "https://maitreyeehere.github.io/"
+repository               : "https://github.com/maitreyeehere/maitreyee"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
