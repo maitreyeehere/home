@@ -21,10 +21,10 @@ repository               : "https://github.com/maitreyeehere/maitreyee"
 author:
   # Biographic information
   avatar           : "pfp.jpg"
-  name             : "Maitreyee Sar"
+  name             : "Maitreyee"
   pronouns         : "she/her"  
   bio              : "Third year Computer Science Engineering student, enthusiastic about research in machine learning, computer vision and natural language processing."
-  employer         : "Kalinga Institute of Industrial Technology (KIIT)"
+  employer         : "School of Computer Engineering, KIIT"
   location         : "Bhubaneswar, India"
   email            : "maitreyeesar@gmail.com"
 
