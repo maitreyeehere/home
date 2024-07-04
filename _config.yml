@@ -12,7 +12,7 @@ title                    : "Maitreyee Sar"
 title_separator          : "-"
 name                     : &name "Maitreyee Sar"
 description              : &description "CS undergraduate, enthusiastic about research"
-url                      : "https://maitreyeehere.github.io/"
+url                      : "https://maitreyee.github.io/"
 repository               : "https://github.com/maitreyeehere/maitreyee.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -20,7 +20,7 @@ repository               : "https://github.com/maitreyeehere/maitreyee.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pfp.jpg"
   name             : "Maitreyee Sar"
   pronouns         : "she/her"  
   bio              : "Third year Computer Science Engineering student, enthusiastic about research in machine learning, computer vision and natural language processing."
