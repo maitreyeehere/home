@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
+    height: 150vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
     padding-top: $masthead-height;
@@ -64,7 +64,7 @@
     float: right;
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
-    z-index: 10;
+    z-index: 15;
   }
 
   @include breakpoint($x-large) {
