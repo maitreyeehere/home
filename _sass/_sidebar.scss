@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -16,6 +16,8 @@
   @media screen and (min-width: 1024px) {
     position: fixed;
     padding-top: $masthead-height;
+    overflow-y: auto; // Add this line to make sidebar scrollable
+    height: 100vh; // Add this line to set the height of the sidebar
   }
 
   @include breakpoint($large) {
