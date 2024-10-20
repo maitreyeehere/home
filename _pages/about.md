@@ -9,7 +9,7 @@ redirect_from:
 
 hi :D
 
-i'm a </b>computer science and engineering</b> undergraduate at Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, India. 
+i'm a <b>computer science and engineering</b> undergraduate at Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, India. 
 
 i love learning, and what i really love about my subject is how creative you can get it with, and how it intersects with pretty much everything (for example, how brains work) and helps us understand it better.
 
