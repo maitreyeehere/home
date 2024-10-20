@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "☀️ maitreyee • 20 • she/her"
+title: "☀️ about me"
 author_profile: true
 redirect_from: 
   - /about/
