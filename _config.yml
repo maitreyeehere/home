@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hi, Maitreyee here :)"
+title                    : "maitreyee's homepage :)"
 title_separator          : "-"
 name                     : &name "Maitreyee Sar"
-description              : &description "CS undergraduate, enthusiastic about research"
-url                      : "https://maitreyeehere.github.io/"
-repository               : "https://github.com/maitreyeehere/maitreyee"
+description              : &description "cse undergraduate, enthusiastic about research"
+url                      : "https://maitreyeehere.github.io/home"
+repository               : "https://github.com/maitreyeehere/home"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -21,9 +21,9 @@ repository               : "https://github.com/maitreyeehere/maitreyee"
 author:
   # Biographic information
   avatar           : "pfp.jpg"
-  name             : "Maitreyee"
+  name             : "maitreyee"
   pronouns         : "she/her"  
-  bio              : "Third year Computer Science Engineering student, enthusiastic about research in machine learning, computer vision and natural language processing."
+  bio              : "third year Computer Science Engineering student, enthusiastic about research in machine learning, computer vision and natural language processing."
   employer         : "School of Computer Engineering, KIIT"
   location         : "Bhubaneswar, India"
   email            : "maitreyeesar@gmail.com"
